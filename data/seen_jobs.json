@@ -1,1 +1,237 @@
-{}
+{
+  "546a1a520c40": {
+    "company": "에스원",
+    "title": "시설관리자",
+    "first_seen": "2026-08-21"
+  },
+  "86b060b574f5": {
+    "company": "에스원",
+    "title": "설비엔지니어",
+    "first_seen": "2026-08-21"
+  },
+  "e7ff26931b55": {
+    "company": "에스원",
+    "title": "전기·전자엔지니어",
+    "first_seen": "2026-08-21"
+  },
+  "13d6551815ca": {
+    "company": "에스원",
+    "title": "기계엔지니어",
+    "first_seen": "2026-08-21"
+  },
+  "f223769f9529": {
+    "company": "에스원",
+    "title": "소방설비",
+    "first_seen": "2026-08-21"
+  },
+  "d4a245244892": {
+    "company": "에스원",
+    "title": "전기기사",
+    "first_seen": "2026-08-21"
+  },
+  "9274d5cd007d": {
+    "company": "에스원",
+    "title": "4급 시설관리(FM) 부문 신입채용",
+    "first_seen": "2026-08-21"
+  },
+  "a457c50e6e84": {
+    "company": "에스원",
+    "title": "IFM 운영",
+    "first_seen": "2026-08-21"
+  },
+  "4400f6db8ea7": {
+    "company": "에스원",
+    "title": "로봇 기술 기획",
+    "first_seen": "2026-08-21"
+  },
+  "9ce42512ecfc": {
+    "company": "에스원",
+    "title": "㈜에스원 4급 정보보안/빌딩시설관리, 5급 첨단보안직(CS) 채용",
+    "first_seen": "2026-08-21"
+  },
+  "651491023dc6": {
+    "company": "에스원",
+    "title": "4급 시설관리(FM) 부문 신입채용 - 승강기직",
+    "first_seen": "2026-08-21"
+  },
+  "14235aa1c6da": {
+    "company": "SK커리어스",
+    "title": "수소충전소 O&M 담당 채용 (경력)",
+    "first_seen": "2026-08-21"
+  },
+  "d22d795a8158": {
+    "company": "SK커리어스",
+    "title": "[SK에어플러스]용인 Project 배관 품질/시공 감독(계약직)",
+    "first_seen": "2026-08-21"
+  },
+  "3aa061a9c554": {
+    "company": "SK커리어스",
+    "title": "[엔솔브] 발전설비 운전담당 구성원 채용 (경력)",
+    "first_seen": "2026-08-21"
+  },
+  "8c11fc7ce1d6": {
+    "company": "SK커리어스",
+    "title": "[SK에어코어] 전기/계장 엔지니어",
+    "first_seen": "2026-08-21"
+  },
+  "4cf26014fa00": {
+    "company": "SK커리어스",
+    "title": "설비관리",
+    "first_seen": "2026-08-21"
+  },
+  "46f0994bdc19": {
+    "company": "SK커리어스",
+    "title": "설비기술",
+    "first_seen": "2026-08-21"
+  },
+  "8e356cc3278a": {
+    "company": "SK커리어스",
+    "title": "설비관리(기계)",
+    "first_seen": "2026-08-21"
+  },
+  "f3a143718809": {
+    "company": "SK커리어스",
+    "title": "설비관리(전기)",
+    "first_seen": "2026-08-21"
+  },
+  "f733086e244c": {
+    "company": "SK커리어스",
+    "title": "공사(설비)",
+    "first_seen": "2026-08-21"
+  },
+  "f008bbb46f23": {
+    "company": "SK커리어스",
+    "title": "공사(전기)",
+    "first_seen": "2026-08-21"
+  },
+  "46004b586e1a": {
+    "company": "SK커리어스",
+    "title": "공사(기계)",
+    "first_seen": "2026-08-21"
+  },
+  "dbcb7ee4b2ef": {
+    "company": "SK커리어스",
+    "title": "공사(전기통신)",
+    "first_seen": "2026-08-21"
+  },
+  "df2c60e0565e": {
+    "company": "SK커리어스",
+    "title": "시공(플랜트-전기)",
+    "first_seen": "2026-08-21"
+  },
+  "cc5e3a5eca06": {
+    "company": "SK커리어스",
+    "title": "시공(플랜트-기계)",
+    "first_seen": "2026-08-21"
+  },
+  "a1ac066cae24": {
+    "company": "SK커리어스",
+    "title": "시공(플랜트-설비)",
+    "first_seen": "2026-08-21"
+  },
+  "bddf087b46f7": {
+    "company": "SK커리어스",
+    "title": "설계(플랜트-전기)",
+    "first_seen": "2026-08-21"
+  },
+  "5d5231e2081a": {
+    "company": "SK커리어스",
+    "title": "설계(플랜트-기계)",
+    "first_seen": "2026-08-21"
+  },
+  "c8f9dc1df1b1": {
+    "company": "SK커리어스",
+    "title": "설계(플랜트-설비)",
+    "first_seen": "2026-08-21"
+  },
+  "a86ce4773717": {
+    "company": "SK커리어스",
+    "title": "설비 Infra",
+    "first_seen": "2026-08-21"
+  },
+  "f41c271ebb25": {
+    "company": "SK커리어스",
+    "title": "인프라 설계/구축/관리",
+    "first_seen": "2026-08-21"
+  },
+  "928b87a5fc60": {
+    "company": "SK커리어스",
+    "title": "Utility기술(공조/배기, 배관)",
+    "first_seen": "2026-08-21"
+  },
+  "97a7377f1f6c": {
+    "company": "SK커리어스",
+    "title": "Utility기술(전기, 제어)",
+    "first_seen": "2026-08-21"
+  },
+  "7660656056f5": {
+    "company": "SK커리어스",
+    "title": "품질관리(기계/배관)",
+    "first_seen": "2026-08-21"
+  },
+  "52446bbcd2d1": {
+    "company": "SK커리어스",
+    "title": "품질관리(전기/계장)",
+    "first_seen": "2026-08-21"
+  },
+  "46feab1b79d1": {
+    "company": "SK커리어스",
+    "title": "설비관리(Maintenance)",
+    "first_seen": "2026-08-21"
+  },
+  "9f65b9b94f2c": {
+    "company": "SK커리어스",
+    "title": "설계(전기)",
+    "first_seen": "2026-08-21"
+  },
+  "c2357773daae": {
+    "company": "SK커리어스",
+    "title": "설계(기계)",
+    "first_seen": "2026-08-21"
+  },
+  "e8351d9e4111": {
+    "company": "SK커리어스",
+    "title": "설계(설비)",
+    "first_seen": "2026-08-21"
+  },
+  "c973afe8c971": {
+    "company": "SK커리어스",
+    "title": "제조/설비관리(기계),설비관리(전기)",
+    "first_seen": "2026-08-21"
+  },
+  "adf6ce272dc0": {
+    "company": "SK커리어스",
+    "title": "건설/플랜트/품질관리(기계/배관)",
+    "first_seen": "2026-08-21"
+  },
+  "cea00b979e04": {
+    "company": "SK커리어스",
+    "title": "제조/설비관리",
+    "first_seen": "2026-08-21"
+  },
+  "a20129ce27d9": {
+    "company": "네이버클라우드",
+    "title": "Data Center Engineering",
+    "first_seen": "2026-08-21"
+  },
+  "d8e194ffb519": {
+    "company": "삼성SDS",
+    "title": "데이터센터",
+    "first_seen": "2026-08-21"
+  },
+  "387aeb0a8527": {
+    "company": "삼성SDS",
+    "title": "데이터센터 운영",
+    "first_seen": "2026-08-21"
+  },
+  "eea46bae99fc": {
+    "company": "삼성SDS",
+    "title": "클라우드 & 인프라",
+    "first_seen": "2026-08-21"
+  },
+  "4aa1b4e13742": {
+    "company": "삼성SDS",
+    "title": "데이터센터/네트워크",
+    "first_seen": "2026-08-21"
+  }
+}
